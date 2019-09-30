@@ -1,0 +1,67 @@
+@media screen and (max-width: 760px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+  }
+}
+
+
+.navbar-nav {
+  font-size: 16px;
+}
+
+
+.carousel {
+  width: cover;
+  height: 800px;
+}
+
+.carousel-inner {
+  width: cover;
+  height: 800px;
+}
+
+
+nav {
+  margin-bottom: 0 !important;
+}
+
+body {
+  font-family: helvetica;
+}
+
+
+.input-group {
+  margin-top: 5px;
+}
+
+.container-fluid1 h1, .container-fluid3 h1 {
+  text-align: center;
+  padding: 100px 0 0 200px;
+}
+
+.container-fluid1 h2, .container-fluid3 h2 {
+  text-align: center;
+  padding: 50px 0 0 200px;
+}
+
+.container-fluid2 h1 {
+  text-align: left;
+  padding: 100px 0 0 0;
+}
+
+.container-fluid2 h2 {
+  text-align: left;
+  padding: 50px 0 0 10px;
+}
+
+
+.Shipmap h1 {
+  text-align: center;
+
+}
+
+.responsive {
+  max-width: 990px;
+  max-height: 660px;
+}
